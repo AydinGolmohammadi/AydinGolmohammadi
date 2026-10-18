@@ -10,6 +10,7 @@ I design and develop reliable backend systems and modern mobile applications, pr
 
 My experience spans:
 
+- DDD (Domain-Driven Design)
 - Microservices architecture
 - Clean Architecture & CQRS
 - Real-time systems (SignalR, RabbitMQ)
@@ -21,21 +22,31 @@ My experience spans:
 ## 🛠 Tech Stack
 
 ### Backend
-- .NET
-- RabbitMQ
-- Oracle SQL
-- Elasticsearch
-- MinIO
+
+**Approaches & Principles**
+- Domain-Driven Design (DDD)
+- Event-Driven Architecture
+- Microservices
+
+**Architecture & Patterns**
 - Clean Architecture
-- CQRS
+- Modular Monolith
+- CQS / CQRS
+
+**Tools & Infrastructure**
+- .NET
+- RabbitMQ (message broker)
+- Redis (caching)
+- SQL Server / Oracle SQL (relational DB)
+- Elasticsearch (search & logging)
+- MinIO (object storage)
 
 ### Mobile
 - Flutter
 - Dart
-- BLoC / Provider
-- MVVM
-- REST APIs
-- SignalR
+- BLoC / GetX / Provider
+- MVVM / Clean Architecture
+- REST APIs / SignalR
 
 ---
 
@@ -43,7 +54,7 @@ My experience spans:
 
 ### Digital Banking Systems
 - Built and maintained microservices for banking platforms.
-- Developed card-to-card transfer services.
+- Developed card transfer services.
 - Implemented scalable architecture using CQRS and message brokers.
 
 ### Neobank Mobile Application
