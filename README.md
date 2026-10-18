@@ -54,7 +54,6 @@ My experience spans:
 
 ### Digital Banking Systems
 - Built and maintained microservices for banking platforms.
-- Developed card transfer services.
 - Implemented scalable architecture using CQRS and message brokers.
 
 ### Neobank Mobile Application
