@@ -1,6 +1,6 @@
 # Hi, I'm Aydin 👋
 
-Software Engineer focused on building scalable banking systems and high-performance mobile applications.
+Software Engineer focused on building scalable systems and high-performance mobile applications.
 
 ---
 
